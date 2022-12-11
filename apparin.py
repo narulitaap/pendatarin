@@ -224,5 +224,5 @@ with tab5:
     \n**Email**     : narulita.arien@gmail.com
     \n**Github**    : narulitaap
     \n**Instagram** : narulitaa.ap
-    \n Terimakasih , BYEEE
+    \n Terimakasih 
     """)

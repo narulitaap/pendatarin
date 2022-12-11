@@ -40,8 +40,8 @@ with tab1:
 
     st.write("""
     ### Want to learn more?
-    - Dataset [kaggel.com](https://www.kaggle.com/datasets/kannanaikkal/ecoli-uci-dataset)
-    - Github Account [github.com](https://github.com/AliGhufron-28/datamaining)
+    - Dataset [kaggel.com](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset)
+    - Github Account [github.com](https://github.com/narulitaap)
     """)
 
     st.write(data)
